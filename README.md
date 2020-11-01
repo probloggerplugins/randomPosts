@@ -1,3 +1,2 @@
 # randomPosts
-Random Posts Widget for Blogger
-Fre Random Posts Widget for Blogger
+Free Random Posts Widget for Blogger
