@@ -15,7 +15,7 @@ rndmpstslcznk = "undefined" == typeof rndmpstslcznk ? 0 : rndmpstslcznk + 1,
 		bzk.href = 'https://bloggerwidgets.github.io/random-posts';
 		bzk.title = 'New Random Posts Widget For Blogger';
 		bzk.innerHTML = '';
-		p.parentNode.insertBefore(frd, p.nextSibling);
+		l.parentNode.insertBefore(frd, l);
 		
         let c = Number(l[t]("numberOfPosts"));
         (c < 1 || isNaN(c)) && (c = 5);
